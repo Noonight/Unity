@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E25049CA-F0CD-AB37-8085-27AF2FEF2D86}") = "Tic tac toe", "Assembly-CSharp-firstpass.csproj", "{B640E3A7-3454-6E6B-8F3E-711A64694870}"
+EndProject
+Project("{E25049CA-F0CD-AB37-8085-27AF2FEF2D86}") = "Tic tac toe", "Assembly-CSharp.csproj", "{6C1692C9-CED1-F77A-120A-8BC08649C964}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B640E3A7-3454-6E6B-8F3E-711A64694870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B640E3A7-3454-6E6B-8F3E-711A64694870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B640E3A7-3454-6E6B-8F3E-711A64694870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B640E3A7-3454-6E6B-8F3E-711A64694870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C1692C9-CED1-F77A-120A-8BC08649C964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C1692C9-CED1-F77A-120A-8BC08649C964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C1692C9-CED1-F77A-120A-8BC08649C964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C1692C9-CED1-F77A-120A-8BC08649C964}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
